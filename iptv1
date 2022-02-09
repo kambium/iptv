@@ -95,12 +95,18 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6151?checkedby:iptvcat.com
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",MTV HD
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/2622.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Bollywood 2 HD+
-http://local.ultrach.com:8080/bekira/bekira/96608?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Jackie Chan HD+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184850?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Marvel HD+
 http://local.ultrach.com:8080/bekira/bekira/96602?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Jackie Chan HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184850?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Bollywood HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184851?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Bollywood 2 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184852?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Eagle Bollywood HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/77152?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",OnePlay BollyWood HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185360?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Comedy Central FHD DE
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6154?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",N-TV DE
