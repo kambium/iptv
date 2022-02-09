@@ -58,3 +58,54 @@ http://paspastv.pasiptv.com:25461/afrika/afrika/86372?checkedby:iptvcat.com
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683394?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Deutsch",TV38
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",SUPER RTL HD (HEVC)
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10133.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Sat 1 HD
+http://paspastv.pasiptv.com:25461/afrika/afrika/86383?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Kabel 1 HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/31.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",TELE 5 HD (HEVC)
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10135.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",KiKA HD (HEVC)
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10158.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",NICKELODEON HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12209?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Nick Jr.
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/15349.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Disney Channel FHD DE
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6253?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cartoon Network FHD DE
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6257?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Disney XD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10355?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",TOGGO plus
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/15348.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Sixx HEVC
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/78449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",VOX HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/41.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",DAS ERSTE HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12524?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",ARD HD
+http://tvshopip.tv:8080/1234/4321/454632?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",ZDF FHD DE
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6151?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http" group-title="Deutsch",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",MTV HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/2622.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Bollywood 2 HD+
+http://local.ultrach.com:8080/bekira/bekira/96608?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Jackie Chan HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184850?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Cinedome Marvel HD+
+http://local.ultrach.com:8080/bekira/bekira/96602?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Comedy Central FHD DE
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6154?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",N-TV DE
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13566?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",N24 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/598?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",ZEE ONE SD
+http://pprotv.com:80/Rashid/12345678/98114?checkedby:iptvcat.com
