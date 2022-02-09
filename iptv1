@@ -15,3 +15,5 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6215?checkedby:iptvcat.com
 http://paspastv.pasiptv.com:25461/afrika/afrika/86372?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Deutsch",ProSieben Maxx HD DE
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683394?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Deutsch",TV38
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
