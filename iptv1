@@ -52,9 +52,9 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/4789?checkedby:iptvcat.com
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185553?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Deutsch",RTL 2 FHD DE
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6215?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Deutsch",ProSieben HD
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/240px-ProSieben_Logo_2015.svg.png" group-title="Deutsch",ProSieben HD
 http://paspastv.pasiptv.com:25461/afrika/afrika/86372?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Deutsch",ProSieben Maxx HD DE
+#EXTINF:-1 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/320px-ProSieben_MAXX_Logo.svg.png" group-title="Deutsch",ProSieben Maxx HD DE
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/683394?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Deutsch",TV38
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
