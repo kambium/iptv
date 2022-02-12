@@ -59,7 +59,7 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8234?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="DE" tvg-logo="" group-title="Deutsch",TV38
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",SUPER RTL HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15567
+http://streaming-hub.com/tv/i/superrtl_1@97463/index_1300_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Sat 1 HD
 http://paspastv.pasiptv.com:25461/afrika/afrika/86383?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Deutsch",Kabel 1 HD
